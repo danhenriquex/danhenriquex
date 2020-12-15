@@ -4,9 +4,11 @@
 - 📫 How to reach me: danilosantana@mat.ci.ufpb.br
 - ⚡ Fun fact: I've a cut dog. Her name is Luna.
 
+<img width="18" src="https://www.ufpb.br/ufpb/image-base/logo-ufpb-dark.png"> Graduating in Data Science and Artificial Intelligence by UFPB
+
 **Languages and Tools:**
 
-<img width="18" src="https://www.ufpb.br/ufpb/image-base/logo-ufpb-dark.png"> Graduating in Data Science and Artificial Intelligence by UFPB
+
 
 <div>
   <code>
