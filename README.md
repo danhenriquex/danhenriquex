@@ -2,7 +2,7 @@
 
 Here are some ideas to get you started:
 
-- 🌱 I’m currently learning JavaScript, TypeScript, Python, C++.
+- 🌱 I’m currently learning JavaScript, TypeScript, React, Python, C++.
 - 📫 How to reach me: danilosantana@mat.ci.ufpb.br
 - ⚡ Fun fact: I've a cut dog. Her name is Luna.
 
