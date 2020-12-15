@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 
 **Stats**
 <div>
-<a href="https://github.com/thomasr-02/github-readme-stats">
+<a href="https://github.com/danhenriquex/github-readme-stats">
   <img align="center" width="400px" src="https://github-readme-stats.vercel.app/api?username=thomasr-02&count_private=true&show_icons=true&theme=radical" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
