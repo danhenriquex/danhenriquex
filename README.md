@@ -29,9 +29,10 @@ Here are some ideas to get you started:
 </div>
 
 **Stats**
+
 <div>
 <a href="https://github.com/danhenriquex/github-readme-stats">
-  <img align="center" width="400px" src="https://github-readme-stats.vercel.app/api?username=thomasr-02&count_private=true&show_icons=true&theme=radical" />
+  <img align="center" width="400px" src="https://github-readme-stats.vercel.app/api?username=danhenriquex&count_private=true&show_icons=true&theme=radical" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thomasr-02&layout=compact&theme=radical" />
