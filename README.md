@@ -39,7 +39,7 @@
   <img align="center" width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danhenriquex&layout=compact&theme=tokyonight" />
 </a>
  
-  <a h=ref"https://github.com/danhenriquex/github-readme-stats">
+  <a href="https://github.com/danhenriquex/github-readme-stats">
     <img src=" [![danilo's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=danhenriquex)](https://github.com/danhenriquex/github-readme-stats)" />
   </a>
 </div>
