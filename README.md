@@ -41,6 +41,8 @@
 
 </div>
 
+<br/>
+
 **Activity**
 
  [![danilo's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=danhenriquex)](https://github.com/danhenriquex/github-readme-stats)
