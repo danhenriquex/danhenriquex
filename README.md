@@ -42,7 +42,5 @@
 </div>
 
 
-  [![danhenriquex wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=dandanhenriquexx)](https://github.com/danhenriquex/github-readme-stats)
-
 
 
