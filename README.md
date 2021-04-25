@@ -28,6 +28,8 @@
   </code>
 </div>
 
+<br/>
+
 **Stats**
 
 <div style={{display: 'flex'}}>
