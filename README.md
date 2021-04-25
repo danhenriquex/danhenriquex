@@ -42,7 +42,7 @@
 </div>
 
 
-  [![danhenriquex wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=danhenriquex)](https://github.com/danhenriquex/github-readme-stats)
+  [![danhenriquex wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=k)](https://github.com/danhenriquex/github-readme-stats)
 
 
 
