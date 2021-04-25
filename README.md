@@ -38,9 +38,9 @@
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danhenriquex&layout=compact&theme=tokyonight" />
 </a>
- 
+ [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=danhenriquex)](https://github.com/anuraghazra/github-readme-stats)
 </div>
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=danhenriquex)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 
