@@ -36,13 +36,13 @@
 </a>
   <br><br/>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dandanhenriquexx&layout=compact&theme=tokyonight" />
+  <img align="center" width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danhenriquex&layout=compact&theme=tokyonight" />
 </a>
  
 </div>
 
 
-  [![danhenriquex wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=danhenriquexx)](https://github.com/danhenriquex/github-readme-stats)
+  [![danhenriquex wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=dandanhenriquexx)](https://github.com/danhenriquex/github-readme-stats)
 
 
 
