@@ -51,6 +51,7 @@
 
 **teste**
 
-{<img src="https://wakatime.com/badge/github/danhenriquex/NLW5-React-Native.svg" alt="wakatime" />}[https://wakatime.com/badge/github/danhenriquex/NLW5-React-Native]
+.. image:: https://wakatime.com/badge/github/danhenriquex/NLW5-React-Native.svg
+    :target: https://wakatime.com/badge/github/danhenriquex/NLW5-React-Native
 
 
