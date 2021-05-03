@@ -49,6 +49,8 @@
 
  [![danilo's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=danhenriquex)](https://github.com/danhenriquex/github-readme-stats)
 
+** teste **
 
+{<img src="https://wakatime.com/badge/github/danhenriquex/NLW5-React-Native.svg" alt="wakatime" />}[https://wakatime.com/badge/github/danhenriquex/NLW5-React-Native]
 
 
