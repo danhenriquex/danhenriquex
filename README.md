@@ -30,9 +30,9 @@
 
 <br/>
 
-**Stats**
-
-<div style={{display: 'flex'}}>
+<details>
+  <summary>
+    <div style={{display: 'flex'}}>
 <a href="https://github.com/danhenriquex/github-readme-stats">
   <img align="center" width="400px" src="https://github-readme-stats.vercel.app/api?include_all_commits=true&username=danhenriquex&count_private=true&show_icons=true&theme=tokyonight" />
 </a>
@@ -44,6 +44,10 @@
 </div>
 
 <br/>
+  </summary>
+</details>
+
+
 
 
 <details>
