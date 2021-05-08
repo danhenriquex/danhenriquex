@@ -59,6 +59,13 @@
   <img src="https://wakatime.com/share/@danilohenriquexx/f3cf393d-b28c-4060-91da-746ae5d40e3a.svg" height="400" />
   
   </details>
+  
+ <details>
+  <summary>
+    Coding Activity
+  </summary>
+  <img src="https://wakatime.com/share/@danilohenriquexx/214a6c4e-3cdc-4699-9594-0b311c2d8743.svg" />
+  </details>
 
 
 
