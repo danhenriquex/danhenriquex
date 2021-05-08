@@ -32,7 +32,7 @@
 
 <details>
   <summary>
-   Stats..
+   Stats
   </summary></br>
    <div style={{display: 'flex'}}>
 <a href="https://github.com/danhenriquex/github-readme-stats">
