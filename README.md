@@ -45,6 +45,8 @@
 
 <br/>
 
-
+** Wakatime **
+<img src="https://github.com/<danhenriquex>/<danhenriquex>/blob/<main>/images/stat.svg" alt="Alternative Text"/>
+Example: <img src="https://github.com/danhenriquex/danhenriquex/blob/main/images/stat.svg" alt="Danilo WakaTime Activity"/>
 
 
