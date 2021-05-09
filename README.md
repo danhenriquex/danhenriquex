@@ -55,6 +55,10 @@
   <summary>
     Language Statistics
   </summary></br>
+  
+  img {
+  border-radius: 50%;
+}
 
   <img src="https://wakatime.com/share/@danilohenriquexx/f3cf393d-b28c-4060-91da-746ae5d40e3a.svg" height="350" style="border-radius: 10px"/>
   
