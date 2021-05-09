@@ -10,7 +10,7 @@
 
 
 
-<div style="display: flex">
+<div>
   <code>
     <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png">
   </code>
@@ -34,7 +34,7 @@
   <summary>
    Stats
   </summary></br>
-   <div style={{display: 'flex'}}>
+   <div style="display: flex">
 <a href="https://github.com/danhenriquex/github-readme-stats">
   <img align="center" width="400px" src="https://github-readme-stats.vercel.app/api?include_all_commits=true&username=danhenriquex&count_private=true&show_icons=true&theme=tokyonight" />
 </a>
