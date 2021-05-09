@@ -56,7 +56,7 @@
     Language Statistics
   </summary></br>
 
-  <img src="https://wakatime.com/share/@danilohenriquexx/f3cf393d-b28c-4060-91da-746ae5d40e3a.svg" height="350" borderRadius="5px"/>
+  <img src="https://wakatime.com/share/@danilohenriquexx/f3cf393d-b28c-4060-91da-746ae5d40e3a.svg" height="350" style={{borderRadius="5px"}}/>
   
   </details>
   
