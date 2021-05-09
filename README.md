@@ -64,7 +64,7 @@
   <summary>
     Coding Activity
   </summary>
-  <img src="https://wakatime.com/share/@danilohenriquexx/214a6c4e-3cdc-4699-9594-0b311c2d8743.svg" height="350" />
+  <img src="https://wakatime.com/share/@danilohenriquexx/214a6c4e-3cdc-4699-9594-0b311c2d8743.svg" height="350"  style="border-radius: 10px"/>
   </details>
 
 
