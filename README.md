@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🌱 I’m currently learning JavaScript, TypeScript, React, Python, C++.
-- 📫 How to reach me: danilosantana@mat.ci.ufpb.br
+- 📫 How to reach me: danilohssantana@gmail.com
 - ⚡ Fun fact: I've a cut dog. Her name is Luna.
 
 <img width="18" src="https://www.ufpb.br/ufpb/image-base/logo-ufpb-dark.png"> Graduating in Data Science and Artificial Intelligence by UFPB
