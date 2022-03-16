@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🌱 I’m currently learning JavaScript, TypeScript, React, Python, C++.
+- 🌱 I’m currently learning JavaScript, TypeScript, React, React Native, Python, C++.
 - 📫 How to reach me: danilohssantana@gmail.com
 - ⚡ Fun fact: I've a cut dog. Her name is Luna.
 
