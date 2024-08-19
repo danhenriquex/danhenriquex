@@ -5,6 +5,7 @@
 - ⚡ Fun fact: I've a cute dog. Her name is Luna.
 
 <img width="18" src="https://www.ufpb.br/ufpb/image-base/logo-ufpb-dark.png"> Bachelor's degree in Data Science and Artificial Intelligence by UFPB
+
 <img width="18" src="https://www.ufpb.br/ufpb/image-base/logo-ufpb-dark.png"> Currently doing a Master's degree in Artificial Intelligence by UFPB
 
 **Languages and Tools:**
