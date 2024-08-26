@@ -9,6 +9,7 @@
 <img width="18" src="https://www.ufpb.br/ufpb/image-base/logo-ufpb-dark.png"> Currently doing a Master's degree in Artificial Intelligence by UFPB
 
 **Languages and Tools:**
+![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
 
 <div style="display: flex; width: 100%; alignItems: center; flexDirection: row">
   <div style="display: flex">
