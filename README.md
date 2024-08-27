@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🌱 I’m currently learning about LLMs, Data Engineering, MLOps, Python and React/React Native.
+- 🌱 I’m currently learning about LLMs, Data Engineering, MLOps and Data Science.
 - 📫 How to reach me: danilohssantana@gmail.com
 - ⚡ Fun fact: I've a cute dog. Her name is Luna.
 
