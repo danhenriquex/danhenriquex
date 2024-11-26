@@ -2,7 +2,7 @@
 
 - 🌱 I’m currently learning about LLMs, Data Engineering, MLOps and Data Science.
 - 📫 How to reach me: danilohssantana@gmail.com
-- ⚡ Fun fact: I've a cute dog. Her name is Luna.
+
 
 <img width="18" src="https://www.ufpb.br/ufpb/image-base/logo-ufpb-dark.png"> Bachelor's degree in Data Science and Artificial Intelligence by UFPB
 
