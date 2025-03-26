@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🌱 I’m currently learning about LLMs, Data Engineering, MLOps and Data Science.
+- 🌱 I’m currently learning about Software engineering, LLMs, Data Engineering, MLOps and Data Science.
 - 📫 How to reach me: danilohssantana@gmail.com
 
 
