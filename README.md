@@ -4,7 +4,7 @@
 - 📫 How to reach me: danilohssantana@gmail.com
 
 
-![UFPB](https://img.shields.io/badge/UFPB-Universidade%20Federal%20da%20Paraíba-005CA9?style=for-the-badge&logo=graduation-cap&logoColor=white) Bachelor's degree in Data Science and Artificial Intelligence by UFPB
+![UFPB](https://img.shields.io/badge/UFPB-005CA9?style=flat) Bachelor's degree in Data Science and Artificial Intelligence by UFPB
 
 ![UFPB](https://img.shields.io/badge/UFPB-Data%20Science%20%26%20AI-blue) Currently doing a Master's degree in Artificial Intelligence by UFPB
 
