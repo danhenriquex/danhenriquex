@@ -4,9 +4,9 @@
 - 📫 How to reach me: danilohssantana@gmail.com
 
 
-<img width="18" src="https://www.ccsa.ufpb.br/ufpb/contents/noticias/nota-de-repudio/logo-ufpb.png/@@images/image.png"> Bachelor's degree in Data Science and Artificial Intelligence by UFPB
+<img width="18" src="https://raw.githubusercontent.com/danilo-henrique/danilo-henrique/main/assets/logo-ufpb.png"> Bachelor's degree in Data Science and Artificial Intelligence by UFPB
 
-<img width="18" src="https://www.ccsa.ufpb.br/ufpb/contents/noticias/nota-de-repudio/logo-ufpb.png/@@images/image.png"> Currently doing a Master's degree in Artificial Intelligence by UFPB
+<img width="18" src="https://raw.githubusercontent.com/danilo-henrique/danilo-henrique/main/assets/logo-ufpb.png"> Currently doing a Master's degree in Artificial Intelligence by UFPB
 
 **Languages and Tools:**
 <br><br/>
