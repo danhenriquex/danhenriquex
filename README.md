@@ -3,17 +3,11 @@
 - 🌱 I’m currently learning about Software engineering, LLMs, Data Engineering, MLOps and Data Science.
 - 📫 How to reach me: danilohssantana@gmail.com
 
+<img src="https://img.shields.io/badge/UFPB-005CA9?style=for-the-badge" /> Bachelor's degree in Data Science and Artificial Intelligence
 
-<div align="center">
 
-  <img src="assets/ufpb.png" height="28"/> 
-  Bachelor's degree in Data Science and Artificial Intelligence
-  <br><br>
 
-  <img src="assets/ufpb.png" height="28"/> 
-  Currently doing a Master's degree in Artificial Intelligence
-
-</div>
+ <img src="https://img.shields.io/badge/UFPB-005CA9?style=for-the-badge" /> Currently doing a Master's degree in Artificial Intelligence
 
 **Languages and Tools:**
 <br><br/>
