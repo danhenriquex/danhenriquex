@@ -4,9 +4,16 @@
 - 📫 How to reach me: danilohssantana@gmail.com
 
 
-<img src="assets/ufpb.png" height="28"/> Bachelor's degree in Data Science and Artificial Intelligence
+<div align="center">
 
-<img src="assets/ufpb.png" height="28"/> Currently doing a Master's degree in Artificial Intelligence
+  <img src="assets/ufpb.png" height="28"/> 
+  Bachelor's degree in Data Science and Artificial Intelligence
+  <br><br>
+
+  <img src="assets/ufpb.png" height="28"/> 
+  Currently doing a Master's degree in Artificial Intelligence
+
+</div>
 
 **Languages and Tools:**
 <br><br/>
