@@ -4,9 +4,9 @@
 - 📫 How to reach me: danilohssantana@gmail.com
 
 
-![UFPB](https://img.shields.io/badge/UFPB-005CA9?style=flat) Bachelor's degree in Data Science and Artificial Intelligence by UFPB
+![UFPB](https://img.shields.io/badge/UFPB-005CA9?style=flat) Bachelor's degree in Data Science and Artificial Intelligence
 
-![UFPB](https://img.shields.io/badge/UFPB-Data%20Science%20%26%20AI-blue) Currently doing a Master's degree in Artificial Intelligence by UFPB
+![UFPB](https://img.shields.io/badge/UFPB-005CA9?style=flat) Currently doing a Master's degree in Artificial Intelligence
 
 **Languages and Tools:**
 <br><br/>
