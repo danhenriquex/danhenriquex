@@ -46,17 +46,7 @@ s### Hi there 👋
 
 
 
-<details>
-  <summary>
-   Stats
-  </summary></br>
-   <div style="display: flex">
 [![Danhenriquex's GitHub stats](https://github-readme-stats.vercel.app/api?username=danhenriquex)](https://github.com/danhenriquex/github-readme-stats)
-
-</div>
-
-<br/>
-</details>
 
 
 
