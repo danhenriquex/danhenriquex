@@ -46,7 +46,7 @@ s### Hi there 👋
 
 
 
-[![Danhenriquex's GitHub stats](https://github-readme-stats.vercel.app/api?username=danhenriquex)](https://github.com/danhenriquex/github-readme-stats)
+![Danhenriquex's GitHub stats](https://github-readme-stats.vercel.app/api?username=danhenriquex&show_icons=true&theme=radical)
 
 
 
