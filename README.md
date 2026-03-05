@@ -1,4 +1,4 @@
-### Hi there 👋
+s### Hi there 👋
 
 - 🌱 I’m currently learning about Software engineering, LLMs, Data Engineering, MLOps and Data Science.
 - 📫 How to reach me: danilohssantana@gmail.com
@@ -51,13 +51,7 @@
    Stats
   </summary></br>
    <div style="display: flex">
-<a href="https://github.com/danhenriquex/github-readme-stats">
-  <img align="center" width="400px" src="https://github-readme-stats.vercel.app/api?include_all_commits=true&username=danhenriquex&count_private=true&show_icons=true&theme=tokyonight" />
-</a>
-  <br><br/>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danhenriquex&layout=compact&theme=tokyonight" />
-</a>
+[![Danhenriquex's GitHub stats](https://github-readme-stats.vercel.app/api?username=danhenriquex)](https://github.com/danhenriquex/github-readme-stats)
 
 </div>
 
