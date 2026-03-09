@@ -7,7 +7,7 @@
 
 
 
-<img src="assets/brasao_ufpb_2025.png" height="20"/> Currently doing a Master's degree by PPGI with focus on Artificial Intelligence
+<img src="assets/brasao_ufpb_2025.png" height="20"/> Currently pursuing a Master’s degree in Computer Science (PPGI) with a focus on Artificial Intelligence.
 
 **Languages and Tools:**
 <br><br/>
