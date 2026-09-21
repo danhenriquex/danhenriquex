@@ -43,6 +43,7 @@
 <br><br/>
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![macOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0)
+![Vivaldi](https://img.shields.io/badge/Vivaldi-%23EF3939.svg?style=for-the-badge&logo=Vivaldi&logoColor=white)
 
 
 
