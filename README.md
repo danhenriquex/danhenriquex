@@ -23,17 +23,16 @@
 ![LangChain](https://img.shields.io/badge/langchain-%231C3C3C.svg?style=for-the-badge&logo=langchain&logoColor=white)
 ![Langflow](https://img.shields.io/badge/langflow-%230066CC.svg?style=for-the-badge&logo=langflow&logoColor=white)
 ![LangGraph](https://img.shields.io/badge/langgraph-%231C3C3C.svg?style=for-the-badge&logo=langgraph&logoColor=white)
-![n8n](https://img.shields.io/badge/n8n-%23EA4B71.svg?style=for-the-badge&logo=n8n&logoColor=white)
-![vLLM](https://img.shields.io/badge/vllm-%2330A2FF.svg?style=for-the-badge&logo=vllm&logoColor=ffffff)
-![Weights and Biases](https://img.shields.io/badge/weights%20%26%20biases-%23FCBC32.svg?style=for-the-badge&logo=weightsandbiases&logoColor=black)
+
 <br><br/>
 ![LangChain](https://img.shields.io/badge/langchain-%231C3C3C.svg?style=for-the-badge&logo=langchain&logoColor=white)
 ![LangGraph](https://img.shields.io/badge/langgraph-%231C3C3C.svg?style=for-the-badge&logo=langgraph&logoColor=white)
 ![Ollama](https://img.shields.io/badge/ollama-%23000000.svg?style=for-the-badge&logo=ollama&logoColor=white)
 <br><br/>
-![YOLO](https://img.shields.io/badge/YOLO-111F68?style=for-the-badge&logo=yolo&logoColor=white)
 ![HuggingFace](https://img.shields.io/badge/huggingface-%23FFD21E.svg?style=for-the-badge&logo=huggingface&logoColor=white)
-![Roboflow](https://img.shields.io/badge/roboflow-%23EE4C2C.svg?style=for-the-badge&logo=roboflow&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-%23EA4B71.svg?style=for-the-badge&logo=n8n&logoColor=white)
+![vLLM](https://img.shields.io/badge/vllm-%2330A2FF.svg?style=for-the-badge&logo=vllm&logoColor=ffffff)
+![Weights and Biases](https://img.shields.io/badge/weights%20%26%20biases-%23FCBC32.svg?style=for-the-badge&logo=weightsandbiases&logoColor=black)
 <br><br/>
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
