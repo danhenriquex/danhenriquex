@@ -1,15 +1,15 @@
 ### Hi there 👋
 
-- 🌱 I’m currently learning about Software engineering, LLMs, Data Engineering, MLOps and Data Science.
+- 🌱 I'm currently learning about Software engineering, LLMs, Data Engineering, MLOps and Data Science.
 - 📫 How to reach me: danilohssantana@gmail.com
 
 <img src="assets/brasao_ufpb_2025.png" height="20"/> Bachelor's degree in Data Science and Artificial Intelligence
 
+<img src="assets/brasao_ufpb_2025.png" height="20"/> Currently pursuing a Master's degree in Computer Science (PPGI) with a focus on Artificial Intelligence.
 
+---
 
-<img src="assets/brasao_ufpb_2025.png" height="20"/> Currently pursuing a Master’s degree in Computer Science (PPGI) with a focus on Artificial Intelligence.
-
-**Languages and Tools:**
+## **Languages and Tools:**
 <br><br/>
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
@@ -47,24 +47,47 @@
 ![macOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0)
 ![Vivaldi](https://img.shields.io/badge/Vivaldi-%23EF3939.svg?style=for-the-badge&logo=Vivaldi&logoColor=white)
 
+---
 
+## **GitHub Statistics & Activity**
 
+<div align="center">
+  
+### Overall Stats
+![Danilo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=danilohenriquexx&show_icons=true&theme=radical&hide_border=true)
+
+### Top Languages
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=danilohenriquexx&layout=compact&theme=radical&hide_border=true)
+
+### Contribution Streak
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=danilohenriquexx&theme=radical)](https://git.io/streak-stats)
+
+### GitHub Activity Graph
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=danilohenriquexx&theme=react-dark&hide_border=true)
+
+### Achievements
+![Trophies](https://github-profile-trophy.vercel.app/?username=danilohenriquexx&theme=onedark&no-frame=true&row=1)
+
+</div>
+
+---
+
+## **Detailed Activity Analysis**
 
 <details>
   <summary>
-    Language Statistics
+    📊 Language Statistics (WakaTime)
   </summary></br>
   
   <img src="https://wakatime.com/share/@danilohenriquexx/f3cf393d-b28c-4060-91da-746ae5d40e3a.svg" height="400" style="border-radius: 10px"/>
   
-  </details>
-  
- <details>
+</details>
+
+<details>
   <summary>
-    Coding Activity
+    ⏱️ Coding Activity (WakaTime)
   </summary>
-  <img src="https://wakatime.com/share/@danilohenriquexx/214a6c4e-3cdc-4699-9594-0b311c2d8743.svg" height="400"  style="border-radius: 10px"/>
-  </details>
-
-
-
+  
+  <img src="https://wakatime.com/share/@danilohenriquexx/214a6c4e-3cdc-4699-9594-0b311c2d8743.svg" height="400" style="border-radius: 10px"/>
+  
+</details>
