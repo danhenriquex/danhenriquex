@@ -54,19 +54,19 @@
 <div align="center">
   
 ### Overall Stats
-![Danilo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=danhenriquexx&show_icons=true&theme=radical&hide_border=true)
+![Danilo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=danhenriquex&show_icons=true&theme=radical&hide_border=true)
 
 ### Top Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=danhenriquexx&layout=compact&theme=radical&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=danhenriquex&layout=compact&theme=radical&hide_border=true)
 
 ### Contribution Streak
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=danhenriquexx&theme=radical)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=danhenriquex&theme=radical)](https://git.io/streak-stats)
 
 ### GitHub Activity Graph
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=danhenriquexx&theme=react-dark&hide_border=true)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=danhenriquex&theme=react-dark&hide_border=true)
 
 ### Achievements
-![Trophies](https://github-profile-trophy.vercel.app/?username=danhenriquexx&theme=onedark&no-frame=true&row=1)
+![Trophies](https://github-profile-trophy.vercel.app/?username=danhenriquex&theme=onedark&no-frame=true&row=1)
 
 </div>
 
@@ -79,7 +79,7 @@
     📊 Language Statistics (WakaTime)
   </summary></br>
   
-  <img src="https://wakatime.com/share/@danhenriquexx/f3cf393d-b28c-4060-91da-746ae5d40e3a.svg" height="400" style="border-radius: 10px"/>
+  <img src="https://wakatime.com/share/@danhenriquex/f3cf393d-b28c-4060-91da-746ae5d40e3a.svg" height="400" style="border-radius: 10px"/>
   
 </details>
 
@@ -88,6 +88,6 @@
     ⏱️ Coding Activity (WakaTime)
   </summary>
   
-  <img src="https://wakatime.com/share/@danhenriquexx/214a6c4e-3cdc-4699-9594-0b311c2d8743.svg" height="400" style="border-radius: 10px"/>
+  <img src="https://wakatime.com/share/@danhenriquex/214a6c4e-3cdc-4699-9594-0b311c2d8743.svg" height="400" style="border-radius: 10px"/>
   
 </details>
