@@ -79,7 +79,7 @@
     📊 Language Statistics (WakaTime)
   </summary></br>
   
-  <img src="https://wakatime.com/share/@danhenriquex/f3cf393d-b28c-4060-91da-746ae5d40e3a.svg" height="400" style="border-radius: 10px"/>
+  <img src="https://wakatime.com/share/@danilohenriquexx/f3cf393d-b28c-4060-91da-746ae5d40e3a.svg" height="400" style="border-radius: 10px"/>
   
 </details>
 
@@ -88,6 +88,6 @@
     ⏱️ Coding Activity (WakaTime)
   </summary>
   
-  <img src="https://wakatime.com/share/@danhenriquex/214a6c4e-3cdc-4699-9594-0b311c2d8743.svg" height="400" style="border-radius: 10px"/>
+  <img src="https://wakatime.com/share/@danilohenriquexx/214a6c4e-3cdc-4699-9594-0b311c2d8743.svg" height="400" style="border-radius: 10px"/>
   
 </details>
