@@ -53,20 +53,8 @@
 
 <div align="center">
   
-### Overall Stats
-![Danilo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=danhenriquex&show_icons=true&theme=radical&hide_border=true)
-
-### Top Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=danhenriquex&layout=compact&theme=radical&hide_border=true)
-
 ### Contribution Streak
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=danhenriquex&theme=radical)](https://git.io/streak-stats)
-
-### GitHub Activity Graph
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=danhenriquex&theme=react-dark&hide_border=true)
-
-### Achievements
-![Trophies](https://github-profile-trophy.vercel.app/?username=danhenriquex&theme=onedark&no-frame=true&row=1)
 
 </div>
 
