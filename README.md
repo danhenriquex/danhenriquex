@@ -2,6 +2,7 @@
 
 - 🌱 I'm currently learning about Software engineering, LLMs, Data Engineering, MLOps and Data Science.
 - 📫 How to reach me: danilohssantana@gmail.com
+- 💻 How to reach my website: [danilohssantana@gmail.com](https://danhenriquex.github.io)
 
 <img src="assets/brasao_ufpb_2025.png" height="20"/> Bachelor's degree in Data Science and Artificial Intelligence
 
